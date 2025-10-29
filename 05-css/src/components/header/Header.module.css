@@ -1,0 +1,14 @@
+.header{
+    background-color: lightblue;
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn{
+    background-color: yellowgreen;
+    padding: 5px;
+    border-radius: 3px;
+}
