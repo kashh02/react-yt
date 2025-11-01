@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(37, 34, 34);
+}
+
+button{
+  margin:50px;
+  padding: 20px 40px;
+  font-size: large;
+  background-color: antiquewhite;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
+
+h1{
+  color: aliceblue;
+  padding: 10px 70px;
+  border: 1px solid white;
+  width: fit-content;
+  font-size: 100px;
+  margin: 50px 150px;
+}
