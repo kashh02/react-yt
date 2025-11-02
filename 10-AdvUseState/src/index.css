@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+  background-color: rgb(37, 34, 34);
+  color: aliceblue;
+}
+
+button{
+  margin:50px;
+  padding: 20px 40px;
+  font-size: large;
+  background-color: antiquewhite;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
